@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "snake", "snake\snake.vcxproj", "{4FE0C75A-D3F9-4A33-BFCF-3EA939105CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE0C75A-D3F9-4A33-BFCF-3EA939105CCE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FE0C75A-D3F9-4A33-BFCF-3EA939105CCE}.Debug|Win32.Build.0 = Debug|Win32
+		{4FE0C75A-D3F9-4A33-BFCF-3EA939105CCE}.Release|Win32.ActiveCfg = Release|Win32
+		{4FE0C75A-D3F9-4A33-BFCF-3EA939105CCE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
