@@ -9,9 +9,9 @@ public:
 	~box();
 	void setSize(int);
 	void initialize();
-	void deployFruit();
-	void startSnake();
-	void handleInput();
+	//void deployFruit();
+	//void deploySnake();
+	//void handleInput();
 
 private:
 	char ** level;
@@ -45,5 +45,6 @@ void box::initialize(){
 		}
 	}
 }
+
 
 #endif
