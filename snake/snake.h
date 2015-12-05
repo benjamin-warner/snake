@@ -23,4 +23,8 @@ snake::snake(){
 
 snake::~snake(){}
 
+void snake::addSegment(){
+
+}
+
 #endif
